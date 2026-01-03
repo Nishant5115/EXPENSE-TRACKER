@@ -1,4 +1,5 @@
 **💰 Expense Tracker Application**
+
 📌 Project Description
 
 The Expense Tracker is a web-based application designed to help users efficiently record, monitor, and analyze their daily financial transactions. It provides an automated and structured approach to managing personal finances, replacing traditional manual methods such as notebooks or spreadsheets.
@@ -68,5 +69,7 @@ The Expense Tracker helps users:
 👨‍💻 Author
 
 Nishant Verma
+
 B.E. Computer Science and Engineering
+
 Expense Tracker – Spring Boot Backend Project
